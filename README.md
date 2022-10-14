@@ -42,7 +42,9 @@
   
 ### Decidi mudar de vida, e a tecnologia foi minha melhor escolha! <img alt="gif" width="100px" botton="10px" src="https://th.bing.com/th/id/R.ddad60bcf21ba2f175639ae039e874f3?rik=WjaLrzvZuH%2bjpw&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2f2rqEdFfkMzXmo%2fgiphy.gif&ehk=DwuYiFu037aYE64td9fn0o2xwduoEoDUqmCu7Ukviw8%3d&risl=&pid=ImgRaw&r=0" />
 
-![Snake animation](https://github.com/antrindade/antrindade/blob/output/github-contribution-grid-snake.svg)
-<br>
 
-
+<div> 
+  
+  ![Snake animation](https://github.com/antrindade/antrindade/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
