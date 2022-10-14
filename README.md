@@ -9,7 +9,7 @@
 
 <br>
 
-## Tecnologiasque que aprendo no meu dia a dia na faculdade
+## Tecnologias que aprendo no meu dia a dia na faculdade
 
 <br>
 
