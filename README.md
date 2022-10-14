@@ -3,9 +3,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antrindade26/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trindadealan/)
 
+<br>
+
 ![antrindade GitHub stats](https://github-readme-stats.vercel.app/api?username=antrindade&show_icons=true&theme=highcontrast)
 
+<br>
+
 ## Tecnologiasque que aprendo no meu dia a dia na faculdade
+
+<br>
 
 <div id="logoType">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,6 +22,8 @@
 <div id="faculdade">
   <img align="center" alt="uninove" src="https://www.uninove.br/logo-uninove.svg" />
 </div>
+
+<br>
 
 ## Tecnologias que estou aprendendo nos cursos paralelos
 
@@ -28,8 +36,9 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div<br>
   
-##
+<br>
   
 ### Decidi mudar de vida, e a tecnologia foi minha melhor escolha!
 
+<br>
 
